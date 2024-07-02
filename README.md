@@ -1,2 +1,8 @@
 # cmpe230
 CMPE230 - SYSTEMS PROGRAMMING
+
+ALL THE PROJECTS HAVE THEIR OWN REPO, THEY WERE ALL CODED WITH [HASAN KEREM ŞEKER](https://github.com/hks1444)
+
+PROJECT 1 - [INTERPRETER FOR ADVANCED CALCULATOR](https://github.com/hks1444/AdvCalc)
+PROJECT 2 - [COMPILER FOR ADVANCED CALCULATOR](https://github.com/kaanguneyli/AdvCalc2)
+PROJECT 3 - [CARD MATCH GAME](https://github.com/kaanguneyli/CardMatchGame)
